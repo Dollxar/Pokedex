@@ -2,7 +2,7 @@
 
 Una Pokédex web responsive desarrollada con HTML, CSS y JavaScript puro que consume [PokéAPI](https://pokeapi.co/) para mostrar a todos los pokémon disponibles (más de 1000 registros). Incluye búsqueda inteligente, filtros por tipo, favoritos persistentes, vista detallada con sprites animados/neon shiny, compatibilidad con mega evoluciones y un modo oscuro/claro.
 
-![Captura de la Pokédex](Proyectitos/Pokedex/Assets/Screenshot From 2025-11-11 00-10-24.png)
+![Captura de la Pokédex](https://github.com/Dollxar/Pokedex/blob/fc88cb5dee66cdf0ee5f3a6a41cacded57284b9d/Assets/screenshot.png)
 
 ## ✨ Características
 
@@ -21,7 +21,7 @@ Una Pokédex web responsive desarrollada con HTML, CSS y JavaScript puro que con
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/<usuario>/pokedex.git
+git clone https://github.com/Dollxar/Pokedex.git
 cd pokedex
 
 # Abrir el proyecto (solo requiere un servidor estático)
